@@ -1,3 +1,3 @@
 # react-node
 
-simple basic login process
+basic practice
